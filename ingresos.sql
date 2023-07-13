@@ -37,7 +37,7 @@ CREATE TABLE `ingresos` (
 --
 
 INSERT INTO `ingresos` (`usuario`, `clave`) VALUES
-('reinaldito', 'hola');
+('reinaldito', 'si');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
